@@ -1,0 +1,2 @@
+git merge branch
+在当前分支操作，将branch的内容合并到当前分支
